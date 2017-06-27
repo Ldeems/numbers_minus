@@ -1,5 +1,6 @@
-x = 25
 
-y = 100
+def haha(x,y)
+	p x - y
+end
 
-p "#{y - x}"
+haha(85,27)	
