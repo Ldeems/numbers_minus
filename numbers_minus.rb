@@ -1,6 +1,6 @@
 
-def haha(x,y)
-	p x - y
+def minus(x,y)
+	 x - y
 end
 
-haha(85,27)	
+minus(12,6)	
